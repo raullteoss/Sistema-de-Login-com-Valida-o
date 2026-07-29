@@ -32,3 +32,5 @@ Como executar
 Basta abrir o arquivo `web/index.html` em qualquer navegador (duplo clique ou "Abrir com" o navegador de sua preferência). Não requer servidor.
 Autor
 Projeto desenvolvido como exercício acadêmico de lógica de programação e estruturas de dados em Python.
+
+LINK: file:///C:/Users/Raul%20Teot%C3%B4nio/Downloads/sistema-login-validacao/sistema-login-validacao/web/index.html
